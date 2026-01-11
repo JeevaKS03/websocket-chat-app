@@ -1,0 +1,39 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(36, 35, 35);
+    color: white;
+}
+#messages{
+    margin: 10px;
+    background-color: rgb(46, 45, 45);
+    border-radius: 10px;
+    padding: 8px;
+}
+#form{
+    padding: 10px;
+}
+#user{
+    margin: 10px;
+    font-size: 18px;
+    height: 25px; width: 150px;
+    border-radius: 10px;
+}
+#msglabel{
+   vertical-align: top;
+}
+#text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+#submit{
+    padding: 7px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
