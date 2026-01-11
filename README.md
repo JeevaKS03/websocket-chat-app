@@ -9,10 +9,12 @@ A simple real-time chat application built using **WebSockets** where multiple cl
 
 ```
 
-project-root/
+websocket-chat-app/
 │
 ├── client/
-│   └── index.html      # Frontend (HTML + JavaScript)
+│   └── index.html      # Frontend (HTML)
+│   └── styles.css      # Frontend (CSS)
+│   └── index.js        # Frontend (JAVASCRIPT)
 │
 ├── server/
 │   └── server.js       # WebSocket server (Node.js)
@@ -36,7 +38,7 @@ project-root/
 
 - **Node.js**
 - **ws** (WebSocket library)
-- **HTML / JavaScript**
+- **HTML, CSS, JavaScript**
 
 ---
 
