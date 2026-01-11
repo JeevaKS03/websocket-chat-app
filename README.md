@@ -101,9 +101,6 @@ ws://localhost:8080
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Author - Jeeva K S
 
 Built as a learning project to understand real-time communication using WebSockets.
-
-```
-
