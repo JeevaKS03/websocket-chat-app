@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Chat App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Socket Chat</h1>
+    <div id="messages">
+
+    </div>
+    <form onsubmit="sendMessage(event)" id="form">
+        <label for="user" style="font-weight: bold;">UserName:</label>
+        <input type="text" id="user"><br>
+        <label for="text" style="font-weight: bold;" id="msglabel">Message:</label>
+        <textarea name="" id="text"></textarea>
+        <br>
+        <input type="submit" id="submit">
+    </form>
+    
+    <script src="index.js"></script>
+</body>
+</html>
