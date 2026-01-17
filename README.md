@@ -4,6 +4,9 @@
 A simple real-time chat application built using **WebSockets** where multiple clients can connect, choose a username, and exchange messages instantly.
 
 ---
+## Demo
+![Demo image](Demo.png)
+---
 
 ## 📁 Project Structure
 
